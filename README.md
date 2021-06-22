@@ -29,6 +29,7 @@ Front-End:
 - **JQuery** 
 - **CSS** 
 <br />
+
 Back-End: 
 - **PSQL** 
 - **Python** 
