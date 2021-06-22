@@ -23,9 +23,24 @@
 
 ### Current Stack: 
 
-Front-End: **Ajax** **Bootstrap** **JQuery** **CSS** 
+Front-End: 
+- **Ajax** 
+- **Bootstrap** 
+- **JQuery** 
+- **CSS** 
 <br />
-Back-End: **PSQL** **Python** **PHP** **Elixir**  **Oracle** **Postgres** **MySQL** **MSSQL server** **NoSql**
+Back-End: 
+- **PSQL** 
+- **Python** 
+- **PHP** 
+- **Elixir**  
+- **Oracle** 
+- **Postgres** 
+- **MySQL** 
+- **MSSQL server** 
+- **NoSql**
+- **Docker**
+
 
 ---
 
