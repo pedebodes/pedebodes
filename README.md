@@ -4,7 +4,7 @@
 
 
 ## I'm a Full-Stack Developer who is eager to learn!
-- 🖥 I'm currently working on legacy system migration, in Python 2.7 to Elixir
+- 🖥 I'm currently working on legacy system migration, in Python 2.7 to Python 3 and starting project to Elixir
 - 🤓 I'm currently learning Elixir with phoenix and liveview
 - 👨🏻‍💻 I’m looking to build meaningful apps
 - 🙌🏼 2021 Goals: Learn a new language
